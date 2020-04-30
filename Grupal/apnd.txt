@@ -1,0 +1,7 @@
+Lucas | Galvez | 24 | M
+Jose | Rubio | 78 | M
+Xiomy | Cavero | 25 | F
+Tito | Galvez | 20 | M
+Teo | Galvez | 24 | M
+
+xd | xd2 | 4 | m
